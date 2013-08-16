@@ -1,0 +1,26 @@
+#
+# generated on 2013/08/15 10:26:07
+#
+# --table-start--
+dataClass=com.input.userdetails.UserDetails
+tableName=userdetails
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=firstName
+# --field-end--
+# --field-start--
+fieldName=lastName
+# --field-end--
+# --field-start--
+fieldName=emailId
+# --field-end--
+# --field-start--
+fieldName=password
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
